@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_australia">Canberra is the capital of Australia</string>
+    <string name="question_germany">Canberra is the capital of Asfsdf</string>
+    <string name="question_canada">Canberra is the capital of DSDSskjdkdkkkd</string>
+    <string name="question_england">Canberra is the capital of Frgthyjuj</string>
+    <string name="question_france">Canberra is the capital of Qawsedrf</string>
+    <string name="question_italy">Canberra is the capital of RFtgyhuj</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Prev</string>
+    <string name="correct_toast">True</string>
+    <string name="incorrect_toast">False</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+</resources>
